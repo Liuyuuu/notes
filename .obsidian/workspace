@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "c741738be68c08a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a7a75ed41f23fe",
+        "type": "leaf",
+        "dimension": 81.2274368231047,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OpenGL/4. 着色器.md",
+            "mode": "preview"
+          }
+        },
+        "group": "f82a186438c89c2b"
+      },
+      {
+        "id": "9f7667f03c15d52c",
+        "type": "leaf",
+        "dimension": 18.772563176895307,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "OpenGL/4. 着色器.md"
+          }
+        },
+        "group": "f82a186438c89c2b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "157883f6641da967",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffc3a8f0c5a15c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a688ce5eb4fa0786",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "054eeed0292e15b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.0083885192871,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5cbb71a10381fbcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "67aefd829a8d58f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2a850905f44b81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OpenGL/4. 着色器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6256dee7a2cf354",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OpenGL/4. 着色器.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 178,
+    "collapsed": true
+  },
+  "active": "08a7a75ed41f23fe",
+  "lastOpenFiles": [
+    "OpenGL/4. 着色器.md",
+    "OpenGL/3. 绘制三角形.md",
+    "OpenGL/1. OpenGL环境搭建.md",
+    "OpenGL/2. 创建窗口.md",
+    "OpenGL - 副本/4. 着色器.md",
+    "OpenGL - 副本/3. 绘制三角形.md",
+    "OpenGL - 副本/1. OpenGL环境搭建.md",
+    "OpenGL/new-1. OpenGL环境搭建.md"
+  ]
+}
