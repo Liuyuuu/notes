@@ -1,9 +1,0 @@
-{
-  "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "vimMode": true,
-  "strictLineBreaks": false,
-  "lineWrap": true,
-  "autoConvertHtml": false,
-  "promptDelete": false
-}
