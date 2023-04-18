@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./image"
+}

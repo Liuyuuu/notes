@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "04768fb0b6122e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35a0039e66dddde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f62524245e86b78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPP/cpp核心编程/1. 内存分区模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765570e3be79daf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a9feb565d436d29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a42337564eeb43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b02d0a3103df590f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1acd02cff210392b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "b033c9dc0ed5ca49",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53ff675e7bfc9ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a8d240039136c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPP/cpp核心编程/1. 内存分区模型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4869cacbb7376883",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPP/cpp核心编程/1. 内存分区模型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3534ea18c9e3ddf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfca987cef6da6d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPP/cpp核心编程/1. 内存分区模型.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f62524245e86b78b",
+  "lastOpenFiles": [
+    "CPP/cpp核心编程/2. 引用.md",
+    "CPP/cpp核心编程/3. 函数提高.md",
+    "CPP/cpp核心编程/1. 内存分区模型.md",
+    "Bookmarks.md",
+    "CPP/未命名.canvas",
+    "conda.md",
+    "CPP/cpp核心编程/4.5 运算符重载.md",
+    "Linux"
+  ]
+}
