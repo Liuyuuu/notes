@@ -1,8 +1,9 @@
 {
   "promptDelete": false,
   "vimMode": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "relative",
   "newFileLocation": "root",
-  "attachmentFolderPath": "./image"
+  "attachmentFolderPath": "./image",
+  "alwaysUpdateLinks": true
 }
